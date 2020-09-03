@@ -1,0 +1,10 @@
+Se guardan en esta carpeta los archivos que modelen cada pieza que llevan los "carritos", solo se guarada una copia de cada diferente elemento. tambien debe haber un archivo con el carrito ya armado.
+
+Piezas diferentes:
+1) Postes verticales barrenados
+2) Baleros 
+3) Resortes de compresion max 1"
+4) Tuercas para tornillo 5/16"
+5) Rondanas 5/16"
+6) Tornillos 3" por 5/16", con cuerda de 1"
+

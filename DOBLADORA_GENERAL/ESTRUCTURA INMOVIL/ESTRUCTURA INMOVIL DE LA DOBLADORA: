@@ -1,0 +1,11 @@
+ESTRUCTURA INMOVIL DE LA DOBLADORA:
+
+Esta carpeta debe contener las partes de la dobladora que no tienen un movimiento, y por tanto son mas sencillos. Estas partes se caracterizan por ser la union con soldadura de simples perfiles, pues hay que tener un archivo de cada diferente perfil simple.
+Los nombres de los simples perfiles debe ir en misnuscula, y precedido de "sp_" por ejemplo, uno de los perfiles que forma parte del marco superior de la mesa: sp_ptc1ymedia(cal14)(140cm)(cut45)
+Los nombres de una pieza compleja deben ir en mayuscula. por ejemplo el nombre de la mesa de trabajo 
+
+1) MESA DE TRABAJO: Una simple mesita con una superficie de 150cm por 40cm con 80cm de altura.
+2) PORTERIA DE BASE:
+3) DADO HEMBRA
+4) TORNILLOS Y TUERCAS NECESARIAS.
+

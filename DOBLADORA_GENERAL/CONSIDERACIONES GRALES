@@ -1,0 +1,22 @@
+Se consideran PIEZAS todos los elementos que se ocupan para ensamblar la DOBLADORA,
+
+
+BARRA MOVIL
+2 - Resortes de tension
+1 - Gato hidraulico (y sus tornillos hacia la barra)
+1 - Barra horizontal (y sus tornillos hacia los carros)
+1 - Dado macho (y sus tornillos hacia la barra)
+
+CARROS DE DESLIZ (cada uno)
+4  - Postes barrenados
+16 - Baleros 
+8  - Tornillos 3" por 5/16, con tuerca y 4rondanas
+8  - Resortes de compresion, max 1"
+
+MAQUINA PARTE FIJA
+1 - Mesa de trabajo
+1 - Porteria de base
+1 - Dado hembra (y sus tornillos hacia la porteria)
+
+
+Guardar todo en una carpeta general, dentro de ella 3 subCarpetas que contiene los elementos de cada rubro. En esa carpeta general el unico archivo ".FCstd" que debe haber es el que contenga la maquina completa y ensamblad
